@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha512.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js" integrity="sha512-a+SUDuwNzXDvz4XrIcXHuCf089/iJAoN4lmrXJg18XnduKK6YlDHNRalv4yd1N40OKI80tFidF+rqTFKGPoWFQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="register-logo">
+                    <img src="data:image/png;base64,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" alt="" >
+
+            <p>Register</p>
+        </div>
+        <div class="inputs">
+            <form id="myForm" method="POST" onsubmit="submitForm()">
+                <div class="email input">
+                <label for="Email">Email:</label>
+                <input type="email" id="email" class="box email" name="email" placeholder="sample@pramericalife.in"  title="Please enter a valid email that ends with @pramerica.in" 
+                         onfocus="emailValidate()"  oninput="emailValidate()" required>
+                        </div>
+                <div class="password input">
+                    <label for="pwd">Password:</label>
+                    <input type="password" id="pwd" class="box pwd" name="pwd" 
+                           pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" 
+                           title="Must contain at least one number, one uppercase and lowercase letter, and at least 8 or more characters" 
+                           onfocus="criteria()" onkeyup="validate()" onblur="hide()" required>
+                           <span class="password-toggle-icon"><i class="fas fa-eye"></i></span>
+                </div>
+
+                <div class="Password input">
+                    <label for="Repwd">Re-Enter Password:</label>
+                    <input type="password" id="Repwd" class="box repwd" name="repwd" required>
+                </div>
+                
+                <input type="submit" value="Submit" id="submit" >
+            </form> 
+        </div>
+
+        <div id="message">
+            <h3>Password must contain the following:</h3>
+            <p id="letter" class="invalid">A <b>lowercase</b> letter</p>
+            <p id="capital" class="invalid">A <b>capital (uppercase)</b> letter</p>
+            <p id="number" class="invalid">A <b>number</b></p>
+            <p id="length" class="invalid">Minimum <b>8 characters</b></p>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

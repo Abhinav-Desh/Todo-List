@@ -1,0 +1,124 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "password": "securePass456"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "password": "mySecret789"
+    },
+    {
+        "id": 4,
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "password": "wonderPass001"
+    },
+    {
+        "id": 5,
+        "name": "Edward Norton",
+        "email": "edward.norton@example.com",
+        "password": "incrediblePass"
+    },
+    {
+        "id": 6,
+        "name": "Fiona Apple",
+        "email": "fiona.apple@example.com",
+        "password": "fionaRocks22"
+    },
+    {
+        "id": 7,
+        "name": "George Washington",
+        "email": "george.washington@example.com",
+        "password": "firstPresident"
+    },
+    {
+        "id": 8,
+        "name": "Hannah Montana",
+        "email": "hannah.montana@example.com",
+        "password": "bestOfBothWorlds"
+    },
+    {
+        "id": 9,
+        "name": "Isaac Newton",
+        "email": "isaac.newton@example.com",
+        "password": "gravityRules"
+    },
+    {
+        "id": 10,
+        "name": "Jessica Jones",
+        "email": "jessica.jones@example.com",
+        "password": "aliasInvestigation"
+    },
+    {
+        "id": 11,
+        "name": "Kevin Bacon",
+        "email": "kevin.bacon@example.com",
+        "password": "sixDegrees"
+    },
+    {
+        "id": 12,
+        "name": "Liam Neeson",
+        "email": "liam.neeson@example.com",
+        "password": "takenToTheMax"
+    },
+    {
+        "id": 13,
+        "name": "Megan Fox",
+        "email": "megan.fox@example.com",
+        "password": "transformersFan"
+    },
+    {
+        "id": 14,
+        "name": "Nina Simone",
+        "email": "nina.simone@example.com",
+        "password": "feelingGood"
+    },
+    {
+        "id": 15,
+        "name": "Oscar Wilde",
+        "email": "oscar.wilde@example.com",
+        "password": "theImportanceOfBeingEarnest"
+    },
+    {
+        "id": 16,
+        "name": "Peter Parker",
+        "email": "peter.parker@example.com",
+        "password": "spiderSense"
+    },
+    {
+        "id": 17,
+        "name": "Quinn Fabray",
+        "email": "quinn.fabray@example.com",
+        "password": "gleekForever"
+    },
+    {
+        "id": 18,
+        "name": "Ron Weasley",
+        "email": "ron.weasley@example.com",
+        "password": "chudleyCannons"
+    },
+    {
+        "id": 19,
+        "name": "Sarah Connor",
+        "email": "sarah.connor@example.com",
+        "password": "futureWarrior"
+    },
+    {
+        "id": 20,
+        "name": "Tony Stark",
+        "email": "tony.stark@example.com",
+        "password": "ironManForever"
+    }
+]

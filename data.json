@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "$2b$12$0DdXQm3.iOmIBOZnA3a3uOZwmKEDt5qHPk9xtUgCRhFmH8KDfOPBa"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "password": "52bc47f80b6fe698e9a14327e1bb7ddfa39a21740c8c7017329f3ec555a3bcf6"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "password": "$2b$12$LJ/8DqNNfA8KpEpn51sXeOCqdd/rrZ.KKoL0Xeap8ml8k7AHSc8TS"
+    },
+    {
+        "id": 4,
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "password": "$2b$12$yAk1TO5/h6bAS9TPKbGZ..6rcGg6sYeRV9UoR2nU36y2OSZCRPMbK"
+    },
+    {
+        "id": 5,
+        "name": "Edward Norton",
+        "email": "edward.norton@example.com",
+        "password": "$2b$12$4GuTH6JKnqshyU56ucMReO.ZUOe/Z4A/WtQkFK9vG3sGNN7En.HVi"
+    },
+    {
+        "id": 6,
+        "name": "Fiona Apple",
+        "email": "fiona.apple@example.com",
+        "password": "$2b$12$1.vw1vM.zOZHR4wD/ePYg.1ZtS2rAsVz4Ze5Ve.wHtPYpUPXGG9ei"
+    },
+    {
+        "id": 7,
+        "name": "George Washington",
+        "email": "george.washington@example.com",
+        "password": "$2b$12$7AlWkSR9SzJsmN0z6jR4DuHIlE/iK4mDGGQ6UlmhXk27gP/YN.XD6"
+    },
+    {
+        "id": 8,
+        "name": "Hannah Montana",
+        "email": "hannah.montana@example.com",
+        "password": "$2b$12$KQdu/ZNTlBbxV0JhrxlTAeay49exAuLxeXaC6vU74lth0lwbOq7Rm"
+    },
+    {
+        "id": 9,
+        "name": "Isaac Newton",
+        "email": "isaac.newton@example.com",
+        "password": "$2b$12$g5GZqYXvhV4vdnSc.BtH/Oj6DQKnhd2VtGu77uZbyU5/vGLH8Z8T6"
+    },
+    {
+        "id": 10,
+        "name": "Jessica Jones",
+        "email": "jessica.jones@example.com",
+        "password": "$2b$12$gZGHlGq6/iPIhNGH6gFdo.rMyzDQRfm22gjF5brQHzYQdA9gN/GkG"
+    },
+    {
+        "id": 11,
+        "name": "Kevin Bacon",
+        "email": "kevin.bacon@example.com",
+        "password": "$2b$12$GlYaT/FGNQ2oUbz8vW1Tn.HStRHyFnaMbYlRaPCvOXnqUw59ZzUeG"
+    },
+    {
+        "id": 12,
+        "name": "Liam Neeson",
+        "email": "liam.neeson@example.com",
+        "password": "$2b$12$FXLp.V30ok0d9ZTxReiKde0oT9QH71Kk9XygC/6zR8EdB12F4Q7nS"
+    },
+    {
+        "id": 13,
+        "name": "Megan Fox",
+        "email": "megan.fox@example.com",
+        "password": "$2b$12$U3Ic.d8WZXfIT4kF/0u0DO.P2t3GV.eZSVu64nq6G7u4WGu8ZLwl6"
+    },
+    {
+        "id": 14,
+        "name": "Nina Simone",
+        "email": "nina.simone@example.com",
+        "password": "$2b$12$KjNHN6GlrGS8EnUgTq8cUecRMySPdp21M4nBq7nDgu57IV/pAiB9i"
+    },
+    {
+        "id": 15,
+        "name": "Oscar Wilde",
+        "email": "oscar.wilde@example.com",
+        "password": "$2b$12$F3xlJ0ylhTz3F4CrO/ds8eYek9.t7g1My.E8x0yaJQKxqO6qH2pgy"
+    },
+    {
+        "id": 16,
+        "name": "Peter Parker",
+        "email": "peter.parker@example.com",
+        "password": "$2b$12$3HI8M6OqEEWFPWg4.RZVx.O3k3FB7Hp17/nKHfs0GR3y1aOtLSg1O"
+    },
+    {
+        "id": 17,
+        "name": "Quinn Fabray",
+        "email": "quinn.fabray@example.com",
+        "password": "$2b$12$uPQBSnHc/zTgqDkvAc5Z.eIFLht7S.IYChEv/SL9eER3.qgnizB8a"
+    },
+    {
+        "id": 18,
+        "name": "Ron Weasley",
+        "email": "ron.weasley@example.com",
+        "password": "$2b$12$NzF9QOh1WrhtgBjc5dDUWeQk/iGUsGq9h0iN.M5t8d9I1rZP/s4Em"
+    },
+    {
+        "id": 19,
+        "name": "Sarah Connor",
+        "email": "sarah.connor@example.com",
+        "password": "$2b$12$9rucVh1P5ZfPb/P9pL61Pew6fdErvdoH8OaiwCmVuhFajtF2KmyKu"
+    },
+    {
+        "id": 20,
+        "name": "Tony Stark",
+        "email": "tony.stark@example.com",
+        "password": "$2b$12$0gD2MBBRUaZ6QsRRdQ1esOhVW0ThNCuE17kVvVkwmWEW0r9D.T93W"
+    }
+]
